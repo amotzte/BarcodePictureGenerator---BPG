@@ -1,7 +1,7 @@
 <html><body>
 <?php
 
-$unit_test=1;
+
 
 
 include 'getimage.php';
@@ -9,7 +9,7 @@ include 'unit_test.php';
 
 
 
-
+$unit_test=$_POST['debug'];
 
 
 $url = $_POST['url'];
@@ -32,12 +32,13 @@ else
 
 rename($target_path, "uploads/".$user_number."_user_pic");
 $qr_user="uploads/".$user_number."_qr.png";
+$pic_user='uploads/'.$user_number.'_user_pic'; 
 
 
 
 if ($unit_test){
         echo "checking if both files are found...<BR>";
-        if(check_files('uploads/'.$user_number.'_user_pic',$qr_user))
+        if(check_files($pic_user,$qr_user))
             echo "OK<BR>";
         else
             echo "FAIL<BR>";
@@ -48,8 +49,17 @@ if ($unit_test){
          $qr_user=$ip.'/'.$qr_user;
          echo $qr_user.", " . $url."<BR>" ; 
          http_response($qr_user,"http://".$url);
+         echo "<BR>";
+         
+         ?>
+         <img src="<? echo $qr_user; ?>" width="200" height="200" alt="<? echo $qr_user; ?> (QR_original)">
+	<img src="<? echo $pic_user; ?>" width="200" height="200" alt="<? echo $pic_user; ?> (USER_picture)">
+	<?
+         
 }
 
 ?>
+
+
 </body></html>
 
