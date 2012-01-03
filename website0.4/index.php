@@ -4,11 +4,34 @@
 </head>
 
 
+<script type="text/javascript">
+function validateForm()
+{
+var file=document.forms["myForm"]["pic"].value;
+var url=document.forms["myForm"]["url"].value;
+if (file==null || file=="")
+  {
+  alert("You must browse a file");
+  return false;
+  }
+if (url=="URL")
+  {
+  alert("You must Enter a URL");
+  return false;
+  }
+ 
+}
+
+
+</script>
+
+
+
 <body>
 <div align="center">
 
 <img src="files/barcode.jpg" alt="some" align="middle"/>
-<FORM action="pic.php" method="post" enctype="multipart/form-data">
+<FORM name="myForm" action="pic.php" method="post" enctype="multipart/form-data" onsubmit="return validateForm()" >
 <INPUT name="pic" type="file" accept="image/*"  size="25" value="Picture" onFocus="if(this.value == 'Picture') {this.value = '';}"	    onBlur="if (this.value == '') {this.value = 'Picture';}"/>
 </div>
 
@@ -16,7 +39,7 @@
 <INPUT name="url" type="text" size="25" value="URL" onFocus="if(this.value == 'URL') {this.value = '';}"	    onBlur="if (this.value == '') {this.value = 'URL';}"/>
 </div>
 <div align="center">
-<input type="checkbox"  name =debug value=1/> use debug mode <BR/>
+<input type="checkbox"  name =debug  value=1 / > use debug mode <BR/>
 <INPUT type=submit value=Submit>
 
 </FORM>

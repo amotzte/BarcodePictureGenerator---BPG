@@ -19,14 +19,18 @@ function check_files($qr,$pic){
 }
 
 
-function http_response($pic,$url1) 
+function http_response($pic,$url1,$debug) 
 { 
+
     $encode=urlencode($pic);
     $url="http://zxing.org/w/decode?u=".$encode."&full=true";
     $ch = curl_init();
     curl_setopt($ch, CURLOPT_URL, $url); 
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, TRUE); 
     $head = curl_exec($ch); 
+    if ($debug){
+    	echo $head."<br>" ;
+    }
     curl_close($ch);
     $pos = strrpos($head, "<td>Raw text</td><td>");
     $res = substr($head, $pos+21);
@@ -34,12 +38,12 @@ function http_response($pic,$url1)
     $res2 = substr($res, 0,$pos2);
     if(strcmp($res2,$url1)==0)
     {
-       echo ok; 
+    	if ($debug){echo "<br> QR readble"; }
        return 1;
     }
     else
     {
-        echo error;
+      if ($debug){echo "<br> QR not readble"; }
        return 0;
     };
      
