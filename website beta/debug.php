@@ -1,16 +1,19 @@
 <html>
 <head><title>Main</title>
 
-    
- 
-<!-- Place this tag in your head or just before your close body tag -->
-<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 
-
+  <link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css" rel="stylesheet" type="text/css"/>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>
+  <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js">
   
 <script type="text/javascript" src="lib/jquery-1.4.2.js"></script>
 <script type="text/javascript">
 $(document).ready(function(){
+  
+ 
+  $(".no").hide();
+  $("p").hide();
+  $("head1").hide();
   $("head1").fadeIn(5000);
   $(".no").click(function(){
     $("p").slideUp();
@@ -20,6 +23,8 @@ $(document).ready(function(){
     
   });
   $(".yes").click(function(){
+   // $("#progressbar").progressbar({ value: 37 });
+
     $("p").slideDown();
     $(".no").show();
     $(".yes").hide();
@@ -50,6 +55,13 @@ function changeLocation()
 
 
 
+  
+  <script>
+
+  </script>
+
+
+
 
 </head>
 
@@ -75,10 +87,6 @@ function msg(){
 	alert("Don't use debug mode...");
 }
 
-function up(){
-$("s").show();
-}
-
 </script>
 
 
@@ -86,7 +94,7 @@ $("s").show();
 <body>
 <div align="center">
 
-<head1 style="display:none"><font color="#3333cc"><font size="6">Create QR barcode with a picture/logo</font></font>
+<head1><font color="#3333cc"><font size="6">Create QR barcode with a picture/logo</font></font>
 <br>
 <br>
 <br>
@@ -96,7 +104,7 @@ $("s").show();
 <form_body >
 
 
-<FORM name="myForm" action="pic.php" method="post" enctype="multipart/form-data" onsubmit="up()" >
+<FORM name="myForm" action="pic.php" method="post" enctype="multipart/form-data" onsubmit="return validateForm()" >
 <INPUT name="pic" type="file" accept="image/*"  size="25" value="Picture" onFocus="if(this.value == 'Picture') {this.value = '';}"	    onBlur="if (this.value == '') {this.value = 'Picture';}"/>
 
 
@@ -106,8 +114,8 @@ $("s").show();
 <div align="center">
 
 
-<p style="display:none"><br><INPUT name="trans" type="text" size="3" value="100" onFocus="if(this.value == '100') {this.value = '';}" onBlur="if (this.value == '') {this.value = '100';}"/>%<br></p>
-<button class="no" style="display:none" type=button onClick= "trans.value=100" >Remove Transparency</button>
+<p><br><INPUT name="trans" type="text" size="3" value="100" onFocus="if(this.value == '100') {this.value = '';}" onBlur="if (this.value == '') {this.value = '100';}"/>%<br></p>
+<button class="no" type=button onClick= "trans.value=100" >Remove Transparency</button>
 <button class="yes" type=button  >Add Transparency</button>
 
 
@@ -115,27 +123,16 @@ $("s").show();
 
 <br>
 <br>
-<INPUT type=submit value=Submit  onclick="return validateForm()" >
-<br>
-
+<INPUT type=submit value=Submit  >
+<div id="progressbar" style="width: 37%;" ></div>
 </div>
+<div align="right">
+<input type="checkbox" onClick="if (this.checked) {msg();}"  name =debug  value=1 / >debug mode <BR/>
 
-<!--<input type="checkbox" onClick="if (this.checked) {msg();}"  name =debug  value=1 / >debug mode <BR/> -->
 </FORM>
-
-
-<s style="display:none">
-<img border="0" src="/files/loading.gif"   alt="loading" />
-</s>
-
-
-
-
-
 </div>
 <br>
 <br>
-<div align="center">
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -145,12 +142,26 @@ $("s").show();
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-<!-- Place this tag where you want the +1 button to render -->
-<!--<g:plusone></g:plusone>-->
-    
 
 
 
+
+
+</form_body>
+<div align="left">
+
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-2783501847425625";
+/* 145MBCOMVERTICAL */
+google_ad_slot = "7509279541";
+google_ad_width = 120;
+google_ad_height = 240;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</ad>
 
 </body>
 </html>

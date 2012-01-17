@@ -1,4 +1,22 @@
-<html><body>
+<html>
+<head>
+<!--google stat-->
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-28099497-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<body>
 <?php
 
 
@@ -42,7 +60,7 @@ if (move_uploaded_file($_FILES['pic']['tmp_name'],$target_path) && getimagesize(
 	$pic_user='uploads/'.$user_number.'_user_pic'.$ext; 
 	
 	
-	$ip = "http://bpg.145mb.com";
+	$ip = "http://bpg.t15.org";
 	
 	if ($debug){
 	        echo "checking if both files are found...<BR>";
@@ -111,7 +129,14 @@ if (move_uploaded_file($_FILES['pic']['tmp_name'],$target_path) && getimagesize(
 	  }while (http_response($ip.'/'.$imgdestpath,"http://".$url,$debug)==0 && $shrink_percentage>0.3);
 	  
 
-	  ?><div align="center"><img src="<? echo $imgdestpath; ?>" width="300" height="300"  alt="<? echo $imgdestpath; ?> (USER_picture)"><?
+	  ?><div align="center"><img src="<? echo $imgdestpath; ?>" width="300" height="300"  alt="<? echo $imgdestpath; ?> (USER_picture)">
+	  <div align ="center">To Save: right click -> save image as...</div>
+	  <br>
+	  <br>
+	  
+	  <a href="main.php">Home</a> 
+	  
+	  <?
 	
 	}
 else
