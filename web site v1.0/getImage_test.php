@@ -3,7 +3,7 @@ function make_qr($site,$user_number,$qrsize){
     if(!($site[4]==':' & $site[5]=='/' &  $site[5]=='/')){
        $site='http://'.$site;
     }
-    $site=urlencode($site);
+     $site=urlencode($site);
     $url='http://chart.apis.google.com/chart?cht=qr&chs='.$qrsize.'x'.$qrsize.'&chl='.$site.'&chld=H|0';
     
     $ch = curl_init($url);

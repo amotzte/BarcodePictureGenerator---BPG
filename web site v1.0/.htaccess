@@ -1,0 +1,16 @@
+
+# DO NOT REMOVE THIS LINE AND THE LINES BELOW ERRORPAGEID:XypaGe
+ErrorDocument 404 /404.html
+# DO NOT REMOVE THIS LINE AND THE LINES ABOVE XypaGe:ERRORPAGEID
+
+
+
+
+
+
+
+
+
+# Do not remove this line or mod_rewrite rules and search engine friendly URLs will stop working
+RewriteBase /
+

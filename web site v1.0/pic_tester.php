@@ -32,7 +32,7 @@ function refresh()
 
 
 
-include 'getimage.php';
+include 'getImage_test.php';
 include 'unit_test.php';
 
 
@@ -49,11 +49,8 @@ if ($trans<0){
 	$trans=0;
 } 
 
-$url = $_POST['url'];
 
-if($site[4]==':' & $site[5]=='/' &  $site[5]=='/'){
-      $site=substr($site,7); 
- }
+$url = $_POST['url'];
 $user_number=rand(0,9999999999999);
 if ($debug) {echo "userNumber ".$user_number;}
 make_qr($url,$user_number,$qrsize);

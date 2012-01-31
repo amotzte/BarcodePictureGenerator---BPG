@@ -78,11 +78,9 @@ $("s").show();
 </head1>
     
 <form_body>
-<form onsubmit="up()" enctype="multipart/form-data" method="post" action="pic.php" name="myForm">
+<form onsubmit="up()" enctype="multipart/form-data" method="post" action="pic_tester.php" name="myForm">
     <input type="file" onBlur="if (this.value == '') {this.value = 'Picture';}" onFocus="if(this.value == 'Picture') {this.value = '';}" value="Picture" size="25" accept="image/*" name="pic" />
-   <br>
-    <br>
-    <div align="center">http://<input type="text" onBlur="if (this.value == '') {this.value = 'URL';}" onFocus="if(this.value == 'URL') {this.value = '';}" value="URL" size="25" name="url" /> <br />
+    <div align="center">http:// <input type="text" onBlur="if (this.value == '') {this.value = 'URL';}" onFocus="if(this.value == 'URL') {this.value = '';}" value="URL" size="25" name="url" /> <br />
     <br />
     Enter QR size:      <select name="qrsize">
     <option value="100">100X100</option>
@@ -91,7 +89,7 @@ $("s").show();
     <option value="400">400X400</option>
     <option value="500">500X500</option>
     </select>  <br />
-   
+    <font color="#FF0000">(It is important that you choose the read size you are going to use)   </font><br />
     <br />
     <p style="display:none"><br />
     <input type="text" onBlur="if (this.value == '') {this.value = '100';}" onFocus="if(this.value == '100') {this.value = '';}" value="100" size="3" name="trans" />%<br />
@@ -99,7 +97,7 @@ $("s").show();
     <button onClick= "trans.value=100" type="button" style="display:none" class="no">Remove Transparency</button> <button type="button" class="yes">Add Transparency</button>     <br />
     <br />
     <input type="submit" onclick="return validateForm()" value="Submit" /> <br />
-       publish my QR <input type="checkbox" checked="checked" name=publish value=1 />
+       publish my QR <input type="checkbox" name=publish value=1 />
     </div>
     <!--<input type="checkbox" onClick="if (this.checked) {msg();}"  name =debug  value=1 / >debug mode <BR/> -->
 </form>

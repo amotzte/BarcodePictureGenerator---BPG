@@ -1,0 +1,145 @@
+[13-Jan-2012 15:57:27] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[13-Jan-2012 15:57:27] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 161
+[13-Jan-2012 15:57:28] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[13-Jan-2012 15:57:28] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 161
+[13-Jan-2012 15:57:28] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[13-Jan-2012 15:57:28] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 161
+[13-Jan-2012 15:57:29] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[13-Jan-2012 15:57:29] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 161
+[13-Jan-2012 16:03:11] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[13-Jan-2012 16:03:11] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 161
+[13-Jan-2012 16:03:11] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[13-Jan-2012 16:03:11] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 161
+[13-Jan-2012 16:03:12] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[13-Jan-2012 16:03:12] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 161
+[13-Jan-2012 16:03:12] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[13-Jan-2012 16:03:12] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 161
+[13-Jan-2012 17:08:40] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[13-Jan-2012 17:08:40] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 161
+[13-Jan-2012 17:08:40] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[13-Jan-2012 17:08:40] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 161
+[13-Jan-2012 17:08:40] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[13-Jan-2012 17:08:40] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 161
+[13-Jan-2012 17:08:41] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[13-Jan-2012 17:08:41] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 161
+[14-Jan-2012 06:26:58] PHP Warning:  getimagesize(bpg.t15.org/uploads/3435084954835_qr.png) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/u555184943/public_html/watermark_image.class.php on line 60
+[14-Jan-2012 06:26:58] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[14-Jan-2012 06:26:58] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 161
+[14-Jan-2012 06:26:58] PHP Warning:  getimagesize(bpg.t15.org/uploads/3435084954835_qr.png) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/u555184943/public_html/watermark_image.class.php on line 60
+[14-Jan-2012 06:26:58] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[14-Jan-2012 06:26:58] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 161
+[14-Jan-2012 06:26:59] PHP Warning:  getimagesize(bpg.t15.org/uploads/3435084954835_qr.png) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/u555184943/public_html/watermark_image.class.php on line 60
+[14-Jan-2012 06:26:59] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[14-Jan-2012 06:26:59] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 161
+[14-Jan-2012 06:26:59] PHP Warning:  getimagesize(bpg.t15.org/uploads/3435084954835_qr.png) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/u555184943/public_html/watermark_image.class.php on line 60
+[14-Jan-2012 06:26:59] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[14-Jan-2012 06:26:59] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 161
+[15-Jan-2012 10:02:02] PHP Warning:  imagecreatefromwbmp() [<a href='function.imagecreatefromwbmp'>function.imagecreatefromwbmp</a>]: 'uploads/4862430002540_user_pic.bmp' is not a valid WBMP file in /home/u555184943/public_html/SimpleImage.php on line 11
+[15-Jan-2012 10:02:02] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[15-Jan-2012 10:02:02] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 162
+[18-Jan-2012 00:32:36] PHP Warning:  imagecreatefrompng() [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: 'uploads/3514791019260_user_pic.png' is not a valid PNG file in /home/u555184943/public_html/SimpleImage.php on line 14
+[18-Jan-2012 00:32:36] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/u555184943/public_html/SimpleImage.php on line 44
+[20-Jan-2012 10:19:27] PHP Warning:  imagecreatefromwbmp() [<a href='function.imagecreatefromwbmp'>function.imagecreatefromwbmp</a>]: 'uploads/9780250247567_user_pic.bmp' is not a valid WBMP file in /home/u555184943/public_html/SimpleImage.php on line 11
+[20-Jan-2012 10:19:28] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[20-Jan-2012 10:19:28] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 162
+[20-Jan-2012 21:59:20] PHP Warning:  imagecreatefromgif() [<a href='function.imagecreatefromgif'>function.imagecreatefromgif</a>]: 'uploads/3925658143125_user_pic.gif' is not a valid GIF file in /home/u555184943/public_html/SimpleImage.php on line 12
+[20-Jan-2012 21:59:20] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/u555184943/public_html/SimpleImage.php on line 44
+[22-Jan-2012 05:12:41] PHP Warning:  Missing argument 3 for make_qr(), called in /home/u555184943/public_html/pic.php on line 44 and defined in /home/u555184943/public_html/getimage.php on line 2
+[22-Jan-2012 05:12:41] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[22-Jan-2012 05:12:41] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 161
+[22-Jan-2012 05:12:42] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[22-Jan-2012 05:12:42] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 161
+[22-Jan-2012 05:12:42] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[22-Jan-2012 05:12:42] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 161
+[22-Jan-2012 05:12:43] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[22-Jan-2012 05:12:43] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 161
+[22-Jan-2012 05:15:09] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[22-Jan-2012 05:15:09] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 161
+[22-Jan-2012 05:15:09] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[22-Jan-2012 05:15:09] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 161
+[22-Jan-2012 05:15:09] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[22-Jan-2012 05:15:09] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 161
+[22-Jan-2012 05:15:10] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[22-Jan-2012 05:15:10] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 161
+[23-Jan-2012 05:31:55] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[23-Jan-2012 05:31:55] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 161
+[23-Jan-2012 05:31:56] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[23-Jan-2012 05:31:56] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 161
+[23-Jan-2012 05:31:56] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[23-Jan-2012 05:31:56] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 161
+[23-Jan-2012 05:31:56] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[23-Jan-2012 05:31:56] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 161
+[25-Jan-2012 10:19:41] PHP Warning:  imagecreatefromwbmp() [<a href='function.imagecreatefromwbmp'>function.imagecreatefromwbmp</a>]: 'uploads/1829351577907_user_pic.bmp' is not a valid WBMP file in /home/u555184943/public_html/SimpleImage.php on line 11
+[25-Jan-2012 10:19:41] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/u555184943/public_html/SimpleImage.php on line 44
+[25-Jan-2012 10:19:41] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[25-Jan-2012 10:19:41] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 162
+[26-Jan-2012 23:09:45] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[26-Jan-2012 23:09:45] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 162
+[28-Jan-2012 07:59:07] PHP Parse error:  syntax error, unexpected '[' in /home/u555184943/public_html/pic_tester.php on line 153
+[28-Jan-2012 13:04:33] PHP Parse error:  syntax error, unexpected ';' in /home/u555184943/public_html/getimage.php on line 4
+[28-Jan-2012 13:12:16] PHP Parse error:  syntax error, unexpected T_ECHO in /home/u555184943/public_html/getImage_test.php on line 4
+[28-Jan-2012 13:13:17] PHP Parse error:  syntax error, unexpected T_ECHO in /home/u555184943/public_html/getImage_test.php on line 4
+[28-Jan-2012 13:14:01] PHP Parse error:  syntax error, unexpected T_ECHO in /home/u555184943/public_html/getImage_test.php on line 4
+[28-Jan-2012 13:14:19] PHP Parse error:  syntax error, unexpected T_ECHO in /home/u555184943/public_html/getImage_test.php on line 4
+[28-Jan-2012 13:16:11] PHP Parse error:  syntax error, unexpected T_ECHO in /home/u555184943/public_html/getImage_test.php on line 4
+[28-Jan-2012 13:18:43] PHP Fatal error:  Cannot redeclare make_qr() (previously declared in /home/u555184943/public_html/getimage.php:2) in /home/u555184943/public_html/getimage.php on line 16
+[28-Jan-2012 13:22:22] PHP Fatal error:  Cannot redeclare make_qr() (previously declared in /home/u555184943/public_html/getimage.php:2) in /home/u555184943/public_html/getimage.php on line 16
+[28-Jan-2012 13:24:15] PHP Fatal error:  Cannot redeclare make_qr() (previously declared in /home/u555184943/public_html/getimage.php:2) in /home/u555184943/public_html/getimage.php on line 16
+[28-Jan-2012 13:25:19] PHP Warning:  include(getimage.php.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/u555184943/public_html/pic_tester.php on line 35
+[28-Jan-2012 13:25:19] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'getimage.php.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/u555184943/public_html/pic_tester.php on line 35
+[28-Jan-2012 13:25:19] PHP Fatal error:  Call to undefined function  make_qr() in /home/u555184943/public_html/pic_tester.php on line 56
+[28-Jan-2012 13:29:39] PHP Warning:  include(getimage.php.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/u555184943/public_html/pic.php on line 35
+[28-Jan-2012 13:29:39] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'getimage.php.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/u555184943/public_html/pic.php on line 35
+[28-Jan-2012 13:29:39] PHP Fatal error:  Call to undefined function  make_qr() in /home/u555184943/public_html/pic.php on line 56
+[28-Jan-2012 13:35:41] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/u555184943/public_html/getImage_test.php on line 5
+[28-Jan-2012 17:48:20] PHP Warning:  imagecreatefromwbmp() [<a href='function.imagecreatefromwbmp'>function.imagecreatefromwbmp</a>]: 'uploads/7701627975329_user_pic.bmp' is not a valid WBMP file in /home/u555184943/public_html/SimpleImage.php on line 11
+[28-Jan-2012 17:48:20] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[28-Jan-2012 17:48:20] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 162
+[28-Jan-2012 17:48:20] PHP Warning:  imagecreatefromwbmp() [<a href='function.imagecreatefromwbmp'>function.imagecreatefromwbmp</a>]: 'uploads/7701627975329_user_pic.bmp' is not a valid WBMP file in /home/u555184943/public_html/SimpleImage.php on line 11
+[28-Jan-2012 17:48:20] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[28-Jan-2012 17:48:20] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 162
+[28-Jan-2012 17:48:21] PHP Warning:  imagecreatefromwbmp() [<a href='function.imagecreatefromwbmp'>function.imagecreatefromwbmp</a>]: 'uploads/7701627975329_user_pic.bmp' is not a valid WBMP file in /home/u555184943/public_html/SimpleImage.php on line 11
+[28-Jan-2012 17:48:21] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[28-Jan-2012 17:48:21] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 162
+[28-Jan-2012 17:48:22] PHP Warning:  imagecreatefromwbmp() [<a href='function.imagecreatefromwbmp'>function.imagecreatefromwbmp</a>]: 'uploads/7701627975329_user_pic.bmp' is not a valid WBMP file in /home/u555184943/public_html/SimpleImage.php on line 11
+[28-Jan-2012 17:48:22] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/u555184943/public_html/SimpleImage.php on line 44
+[28-Jan-2012 17:48:22] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[28-Jan-2012 17:48:22] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 162
+[28-Jan-2012 17:50:54] PHP Warning:  imagecreatefromwbmp() [<a href='function.imagecreatefromwbmp'>function.imagecreatefromwbmp</a>]: 'uploads/6362162595614_user_pic.bmp' is not a valid WBMP file in /home/u555184943/public_html/SimpleImage.php on line 11
+[28-Jan-2012 17:50:54] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[28-Jan-2012 17:50:54] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 162
+[29-Jan-2012 14:37:37] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: 'uploads/6618523728102_user_pic.jpg' is not a valid JPEG file in /home/u555184943/public_html/SimpleImage.php on line 13
+[29-Jan-2012 14:37:37] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[29-Jan-2012 14:37:37] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 162
+[29-Jan-2012 14:37:37] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: 'uploads/6618523728102_user_pic.jpg' is not a valid JPEG file in /home/u555184943/public_html/SimpleImage.php on line 13
+[29-Jan-2012 14:37:37] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[29-Jan-2012 14:37:37] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 162
+[29-Jan-2012 14:37:38] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: 'uploads/6618523728102_user_pic.jpg' is not a valid JPEG file in /home/u555184943/public_html/SimpleImage.php on line 13
+[29-Jan-2012 14:37:38] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[29-Jan-2012 14:37:38] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 162
+[29-Jan-2012 14:37:39] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: 'uploads/6618523728102_user_pic.jpg' is not a valid JPEG file in /home/u555184943/public_html/SimpleImage.php on line 13
+[29-Jan-2012 14:37:39] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[29-Jan-2012 14:37:39] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 162
+[31-Jan-2012 10:55:00] PHP Warning:  imagecreatefromwbmp() [<a href='function.imagecreatefromwbmp'>function.imagecreatefromwbmp</a>]: 'uploads/8774179844185_user_pic.bmp' is not a valid WBMP file in /home/u555184943/public_html/SimpleImage.php on line 11
+[31-Jan-2012 10:55:00] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/u555184943/public_html/SimpleImage.php on line 44
+[31-Jan-2012 10:55:00] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[31-Jan-2012 10:55:00] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 162
+[31-Jan-2012 10:55:33] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[31-Jan-2012 10:55:33] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 162
+[31-Jan-2012 10:55:35] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[31-Jan-2012 10:55:35] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 162
+[31-Jan-2012 10:55:35] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[31-Jan-2012 10:55:35] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 162
+[31-Jan-2012 13:27:54] PHP Warning:  imagecreatefromwbmp() [<a href='function.imagecreatefromwbmp'>function.imagecreatefromwbmp</a>]: 'uploads/4926719623617_user_pic.bmp' is not a valid WBMP file in /home/u555184943/public_html/SimpleImage.php on line 11
+[31-Jan-2012 13:27:54] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[31-Jan-2012 13:27:54] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 162
+[31-Jan-2012 13:27:54] PHP Warning:  imagecreatefromwbmp() [<a href='function.imagecreatefromwbmp'>function.imagecreatefromwbmp</a>]: 'uploads/4926719623617_user_pic.bmp' is not a valid WBMP file in /home/u555184943/public_html/SimpleImage.php on line 11
+[31-Jan-2012 13:27:54] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[31-Jan-2012 13:27:54] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 162
+[31-Jan-2012 13:27:54] PHP Warning:  imagecreatefromwbmp() [<a href='function.imagecreatefromwbmp'>function.imagecreatefromwbmp</a>]: 'uploads/4926719623617_user_pic.bmp' is not a valid WBMP file in /home/u555184943/public_html/SimpleImage.php on line 11
+[31-Jan-2012 13:27:54] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[31-Jan-2012 13:27:56] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 162
+[31-Jan-2012 13:27:56] PHP Warning:  imagecreatefromwbmp() [<a href='function.imagecreatefromwbmp'>function.imagecreatefromwbmp</a>]: 'uploads/4926719623617_user_pic.bmp' is not a valid WBMP file in /home/u555184943/public_html/SimpleImage.php on line 11
+[31-Jan-2012 13:27:56] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/u555184943/public_html/SimpleImage.php on line 44
+[31-Jan-2012 13:27:56] PHP Warning:  imagecopymerge(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 81
+[31-Jan-2012 13:27:56] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/u555184943/public_html/watermark_image.class.php on line 162
